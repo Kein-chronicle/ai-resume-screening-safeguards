@@ -1,0 +1,3 @@
+{ "criteria": [
+  { "id": "c1", "kind": "scored", "name": "Backend delivery", "description": "Shipped services with measurable load", "weight": 60, "anchors": ["none", "small", "solid", "led large"] },
+  { "id": "c2", "kind": "scored", "name": "Collaboration", "description": "Cross-team projects delivered", "weight": 40, "anchors": ["none", "some", "regular", "drives"] } ] }
